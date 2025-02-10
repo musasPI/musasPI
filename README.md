@@ -2,10 +2,10 @@
 
 Atualmente estudante de Análise e Desenvolvimento de Sistemas.
 
-## Redes Sociais 
+## Social Media 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-45562d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronney-pinheiro-almeida-da-silva-428ba4319)
 
-## Habilidades
+## Skills and competencies
 
 ![HTML5](https://img.shields.io/badge/HTML5-45562d?style=for-the-badge&logo=html5&logoColor=)
 
