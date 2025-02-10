@@ -6,12 +6,11 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-45562d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronney-pinheiro-almeida-da-silva-428ba4319)
 
 ## Skills and competencies
+![JavaScript](https://img.shields.io/badge/JavaScript-45562d?style=for-the-badge&logo=javascript&logoColor=)
 
 ![HTML5](https://img.shields.io/badge/HTML5-45562d?style=for-the-badge&logo=html5&logoColor=)
 
 ![CSS3](https://img.shields.io/badge/CSS3-45562d?style=for-the-badge&logo=css3&logoColor=)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-45562d?style=for-the-badge&logo=javascript&logoColor=)
 
 ![Figma](https://img.shields.io/badge/Figma-45562d?style=for-the-badge&logo=figma&logoColor=figma)
 
