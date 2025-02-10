@@ -1,6 +1,4 @@
-🇧🇷 Oi! I'm Ronney, System Development Student
-
-# Ronney Pinheiro
+# 🇧🇷 Oi! I'm Ronney Pinheiro, System Development Student
 
 Atualmente estudante de Análise e Desenvolvimento de Sistemas.
 
