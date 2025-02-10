@@ -8,15 +8,16 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas.
 ## Skills and competencies
 ![JavaScript](https://img.shields.io/badge/JavaScript-45562d?style=for-the-badge&logo=javascript&logoColor=)
 
-![HTML5](https://img.shields.io/badge/HTML5-45562d?style=for-the-badge&logo=html5&logoColor=)
+![Windows](https://img.shields.io/badge/Windows-45562d?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-![CSS3](https://img.shields.io/badge/CSS3-45562d?style=for-the-badge&logo=css3&logoColor=)
+![HTML5](https://img.shields.io/badge/HTML5-45562d?style=for-the-badge&logo=html5&logoColor=)
 
 ![Figma](https://img.shields.io/badge/Figma-45562d?style=for-the-badge&logo=figma&logoColor=figma)
 
+![CSS3](https://img.shields.io/badge/CSS3-45562d?style=for-the-badge&logo=css3&logoColor=)
+
 ![Git](https://img.shields.io/badge/GIT-45562d?style=for-the-badge&logo=git&logoColor=)
 
-![Windows](https://img.shields.io/badge/Windows-45562d?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 ## GitHub Status
 
