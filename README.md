@@ -36,4 +36,4 @@ width="28px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
 ##  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musasPI&theme=transparent&bg_color=ae1000&border_color=30A3DC&show_icons=true&icon_color=b1b63a&title_color=b1b63a&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musasPI&theme=transparent&bg_color=001900&border_color=30A3DC&show_icons=true&icon_color=b1b63a&title_color=b1b63a&text_color=FFF)
