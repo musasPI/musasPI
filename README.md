@@ -14,21 +14,11 @@ alt="CSS3"
 title="CSS3"
 width="28px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
-<img
-alt="JavaScript"
-title="JavaScript"
-width="28px"
-src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-2038874-1720087.png?f=webp&w=512" />
 <img 
 alt="Batch Script"
 title="Batch Script"
 width="28px"
 src="https://cdn.icon-icons.com/icons2/2550/PNG/512/terminal_icon_152515.png" />
-<img
-alt="React Native"
-title="React Native"
-width="28px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
 <img
 alt="Java"
 title="Java"
