@@ -3,16 +3,16 @@
 
 Currently Student of Systems Analysis and Development.
 ## 🛠️ Tecnologies
-<img 
-alt="Batch Script"
-title="Batch Script"
-width="28px"
-src="https://cdn.icon-icons.com/icons2/2550/PNG/512/terminal_icon_152515.png" />
 <img
 alt="Java"
 title="Java"
 width="28px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img 
+alt="Batch Script"
+title="Batch Script"
+width="28px"
+src="https://cdn.icon-icons.com/icons2/2550/PNG/512/terminal_icon_152515.png" />
 
 ##  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musasPI&theme=transparent&bg_color=001900&border_color=262626&show_icons=true&icon_color=b1b63a&title_color=b1b63a&text_color=FFF)
