@@ -3,17 +3,6 @@
 
 Currently Student of Systems Analysis and Development.
 ## 🛠️ Tecnologies
-<img
-alt="HMTL5"
-title="HTML5"
-width="28px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"
-/>
-<img
-alt="CSS3"
-title="CSS3"
-width="28px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
 <img 
 alt="Batch Script"
 title="Batch Script"
