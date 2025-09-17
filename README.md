@@ -26,4 +26,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
 
 ##  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musasPI&theme=transparent&bg_color=001900&border_color=262626&show_icons=true&icon_color=b1b63a&title_color=b1b63a&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musasPI&theme=transparent&bg_color=#007b00&border_color=262626&show_icons=true&icon_color=0000b3z&title_color=b1b63a&text_color=FFF)
