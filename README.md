@@ -1,5 +1,5 @@
 # 🇧🇷 Ronney Pinheiro, System Development Student
-[![Credly](https://img.shields.io/badge/credly-%2020?style=for-the-badge&logo=credly&logoColor=orange)](https://www.credly.com/users/ronney-pinheiro-almeida-da-silva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronney-pinheiro-almeida-da-silva-428ba4319)
+[![Credly](https://img.shields.io/badge/credly-%2020?style=for-the-badge&logo=credly&logoColor=orange)](https://www.credly.com/users/ronney-pinheiro-almeida-da-silva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ronney-pinheiro-428ba4319)
 
 Currently Student of Systems Analysis and Development.
 ## 🛠️ Tecnologies
@@ -24,4 +24,3 @@ title="Java"
 width="28px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musasPI&theme=transparent&bg_color=#007b00&border_color=262626&show_icons=true&icon_color=0000b3z&title_color=b1b63a&text_color=FFF)
