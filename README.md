@@ -10,10 +10,15 @@ title="JavaScript"
 width="28px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img 
-alt="cpp"
-title="C++"
+alt="Assembly"
+title="Assembly"
 width="28px"
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" />
+src="https://github.com/user-attachments/assets/864df66c-0137-4a45-8936-6924063c7b78" />
+<img 
+alt="C"
+title="C"
+width="28px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img 
 alt="Python"
 title="Python"
