@@ -1,32 +1,7 @@
-# 🇧🇷 System Development Student
+## Social
+[![Static Badge](https://img.shields.io/badge/Credly-p?logo=credly&logoColor=%23FF6A00&logoSize=100%25&color=%23162f20)](https://www.credly.com/users/ronney-pinheiro-almeida-da-silva) [![Static Badge](https://img.shields.io/badge/Linkedin-p?color=%230073B0)](https://www.linkedin.com/in/ronney-pinheiro)
 
-[![Static Badge](https://img.shields.io/badge/credly-p?logo=credly&logoSize=95%25)](https://www.credly.com/users/ronney-pinheiro-almeida-da-silva) [![Static Badge](https://img.shields.io/badge/linkedin-l?logoSize=95%25&color=blue&)](https://www.linkedin.com/in/ronney-pinheiro)
+## Tecnologies
+![Static Badge](https://img.shields.io/badge/C-p?logo=c&logoSize=100%&color=gray) ![Static Badge](https://img.shields.io/badge/C%2B%2B-p?logo=c%2B%2B&logoColor=00599C&logoSize=100%&color=659AD2) ![Static Badge](https://img.shields.io/badge/PHP-p?logo=php&logoColor=fff&logoSize=100%&color=777BB3) ![Static Badge](https://img.shields.io/badge/Lua-p?logo=lua&logoColor=000080&logoSize=100%&color=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Python-p?logo=python&logoColor=%233776AB&logoSize=100%&color=FFD43B) 
 
-Currently Student of Systems Analysis and Development.
-## 🛠️ Tecnologies
-
-<img
-alt="JavaScript"
-title="JavaScript"
-width="28px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img 
-alt="Assembly"
-title="Assembly"
-width="28px"
-src="https://github.com/user-attachments/assets/864df66c-0137-4a45-8936-6924063c7b78" />
-<img 
-alt="C"
-title="C"
-width="28px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img 
-alt="Python"
-title="Python"
-width="28px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img
-alt="Java"
-title="Java"
-width="28px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+![Static Badge](https://img.shields.io/badge/Assembly-p?logoColor=fff&logoSize=100%25&color=CDCDCD) ![Static Badge](https://img.shields.io/badge/Java-p?logo=duke&logoSize=100%&color=ED1D25) 
